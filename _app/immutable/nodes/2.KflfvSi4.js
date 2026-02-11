@@ -1,0 +1,1 @@
+import{a as m,f as o}from"../chunks/QGKGoRRa.js";import"../chunks/CEtk7wcL.js";var r=o('<main class="svelte-1uha8ag"><h1 class="svelte-1uha8ag">Vad blir det för mat?</h1></main>');function n(a){var t=r();m(a,t)}export{n as component};
